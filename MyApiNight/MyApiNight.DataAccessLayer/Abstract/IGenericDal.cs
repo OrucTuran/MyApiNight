@@ -10,8 +10,8 @@ namespace MyApiNight.DataAccessLayer.Abstract
     {
         void Insert(T entity);
         void Update(T entity);
-        void Delete(T entity);
-        void GetBeyID(int id);
+        void Delete(int id);
+        T GetBeyID(int id);
         List<T> GetAll();
     }
 }

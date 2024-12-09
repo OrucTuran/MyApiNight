@@ -1,4 +1,5 @@
 ﻿using MyApiNight.DataAccessLayer.Abstract;
+using MyApiNight.DataAccessLayer.Context;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,29 +10,40 @@ namespace MyApiNight.DataAccessLayer.Repositories
 {
     internal class GenericRepository<T> : IGenericDal<T> where T : class
     {
-        public void Delete(T entity)
+        private readonly ApiContext _context;
+
+        public GenericRepository(ApiContext context)
         {
-            throw new NotImplementedException();
+            _context = context;
+        }
+
+        public void Delete(int id)
+        {
+            var value = _context.Set<T>().Find(id);
+            _context.Set<T>().Remove(value);
+            _context.SaveChanges();
         }
 
         public List<T> GetAll()
         {
-            throw new NotImplementedException();
+            return _context.Set<T>().ToList();
         }
 
-        public void GetBeyID(int id)
+        public T GetBeyID(int id)
         {
-            throw new NotImplementedException();
+            return _context.Set<T>().Find(id);
         }
 
         public void Insert(T entity)
         {
-            throw new NotImplementedException();
+            var value=_context.Set<T>().Add(entity);
+            _context.SaveChanges();
         }
 
         public void Update(T entity)
         {
-            throw new NotImplementedException();
+            var value = _context.Set<T>().Update(entity);
+            _context.SaveChanges();
         }
     }
 }
