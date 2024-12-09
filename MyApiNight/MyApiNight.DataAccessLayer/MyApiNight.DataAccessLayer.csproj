@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MyApiNight.EntityLayer\MyApiNight.EntityLayer.csproj" />
+  </ItemGroup>
+
 </Project>
