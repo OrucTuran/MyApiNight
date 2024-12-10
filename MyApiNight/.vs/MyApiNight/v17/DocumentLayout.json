@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\GitHub\\MyApiNight\\MyApiNight\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F575728-4C59-4C5B-8BD4-157254AD2656}|MyApiNight.DataAccessLayer\\MyApiNight.DataAccessLayer.csproj|c:\\github\\myapinight\\myapinight\\myapinight.dataaccesslayer\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F575728-4C59-4C5B-8BD4-157254AD2656}|MyApiNight.DataAccessLayer\\MyApiNight.DataAccessLayer.csproj|solutionrelative:myapinight.dataaccesslayer\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F575728-4C59-4C5B-8BD4-157254AD2656}|MyApiNight.DataAccessLayer\\MyApiNight.DataAccessLayer.csproj|c:\\github\\myapinight\\myapinight\\myapinight.dataaccesslayer\\entityframework\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F575728-4C59-4C5B-8BD4-157254AD2656}|MyApiNight.DataAccessLayer\\MyApiNight.DataAccessLayer.csproj|solutionrelative:myapinight.dataaccesslayer\\entityframework\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F575728-4C59-4C5B-8BD4-157254AD2656}|MyApiNight.DataAccessLayer\\MyApiNight.DataAccessLayer.csproj|c:\\github\\myapinight\\myapinight\\myapinight.dataaccesslayer\\abstract\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F575728-4C59-4C5B-8BD4-157254AD2656}|MyApiNight.DataAccessLayer\\MyApiNight.DataAccessLayer.csproj|solutionrelative:myapinight.dataaccesslayer\\abstract\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F575728-4C59-4C5B-8BD4-157254AD2656}|MyApiNight.DataAccessLayer\\MyApiNight.DataAccessLayer.csproj|c:\\github\\myapinight\\myapinight\\myapinight.dataaccesslayer\\entityframework\\efcategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F575728-4C59-4C5B-8BD4-157254AD2656}|MyApiNight.DataAccessLayer\\MyApiNight.DataAccessLayer.csproj|solutionrelative:myapinight.dataaccesslayer\\entityframework\\efcategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\GitHub\\MyApiNight\\MyApiNight\\MyApiNight.DataAccessLayer\\Repositories\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "MyApiNight.DataAccessLayer\\Repositories\\GenericRepository.cs",
-              "ToolTip": "C:\\GitHub\\MyApiNight\\MyApiNight\\MyApiNight.DataAccessLayer\\Repositories\\GenericRepository.cs",
-              "RelativeToolTip": "MyApiNight.DataAccessLayer\\Repositories\\GenericRepository.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAowCsAAAAJAAAAAAAAAA==",
+              "Title": "EfProductDal.cs",
+              "DocumentMoniker": "C:\\GitHub\\MyApiNight\\MyApiNight\\MyApiNight.DataAccessLayer\\EntityFramework\\EfProductDal.cs",
+              "RelativeDocumentMoniker": "MyApiNight.DataAccessLayer\\EntityFramework\\EfProductDal.cs",
+              "ToolTip": "C:\\GitHub\\MyApiNight\\MyApiNight\\MyApiNight.DataAccessLayer\\EntityFramework\\EfProductDal.cs",
+              "RelativeToolTip": "MyApiNight.DataAccessLayer\\EntityFramework\\EfProductDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T20:25:37.579Z",
+              "WhenOpened": "2024-12-10T16:45:51.023Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IGenericDal.cs",
-              "DocumentMoniker": "C:\\GitHub\\MyApiNight\\MyApiNight\\MyApiNight.DataAccessLayer\\Abstract\\IGenericDal.cs",
-              "RelativeDocumentMoniker": "MyApiNight.DataAccessLayer\\Abstract\\IGenericDal.cs",
-              "ToolTip": "C:\\GitHub\\MyApiNight\\MyApiNight\\MyApiNight.DataAccessLayer\\Abstract\\IGenericDal.cs",
-              "RelativeToolTip": "MyApiNight.DataAccessLayer\\Abstract\\IGenericDal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAcAAAAAAAAAA==",
+              "Title": "EfCategoryDal.cs",
+              "DocumentMoniker": "C:\\GitHub\\MyApiNight\\MyApiNight\\MyApiNight.DataAccessLayer\\EntityFramework\\EfCategoryDal.cs",
+              "RelativeDocumentMoniker": "MyApiNight.DataAccessLayer\\EntityFramework\\EfCategoryDal.cs",
+              "ToolTip": "C:\\GitHub\\MyApiNight\\MyApiNight\\MyApiNight.DataAccessLayer\\EntityFramework\\EfCategoryDal.cs",
+              "RelativeToolTip": "MyApiNight.DataAccessLayer\\EntityFramework\\EfCategoryDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T20:11:34.61Z",
+              "WhenOpened": "2024-12-09T20:53:06.939Z",
               "EditorCaption": ""
             }
           ]

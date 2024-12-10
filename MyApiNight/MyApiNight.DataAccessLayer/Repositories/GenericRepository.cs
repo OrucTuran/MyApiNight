@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace MyApiNight.DataAccessLayer.Repositories
 {
-    internal class GenericRepository<T> : IGenericDal<T> where T : class
+    public class GenericRepository<T> : IGenericDal<T> where T : class
     {
         private readonly ApiContext _context;
 
@@ -36,7 +36,7 @@ namespace MyApiNight.DataAccessLayer.Repositories
 
         public void Insert(T entity)
         {
-            var value=_context.Set<T>().Add(entity);
+            var value = _context.Set<T>().Add(entity);
             _context.SaveChanges();
         }
 
