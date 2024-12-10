@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyApiNight.EntityLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53934ffbe05564857458f46fdd6f7bafcf32d174")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1da2aff4c43ab70b03cbd146b23962e783cb50a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyApiNight.EntityLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyApiNight.EntityLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

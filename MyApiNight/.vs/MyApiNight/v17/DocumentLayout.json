@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\GitHub\\MyApiNight\\MyApiNight\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{403CBC8E-5A0D-40CC-87F9-0A51185F34C7}|MyApiNight.BusinessLayer\\MyApiNight.BusinessLayer.csproj|c:\\github\\myapinight\\myapinight\\myapinight.businesslayer\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{403CBC8E-5A0D-40CC-87F9-0A51185F34C7}|MyApiNight.BusinessLayer\\MyApiNight.BusinessLayer.csproj|solutionrelative:myapinight.businesslayer\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{403CBC8E-5A0D-40CC-87F9-0A51185F34C7}|MyApiNight.BusinessLayer\\MyApiNight.BusinessLayer.csproj|c:\\github\\myapinight\\myapinight\\myapinight.businesslayer\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{403CBC8E-5A0D-40CC-87F9-0A51185F34C7}|MyApiNight.BusinessLayer\\MyApiNight.BusinessLayer.csproj|solutionrelative:myapinight.businesslayer\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{403CBC8E-5A0D-40CC-87F9-0A51185F34C7}|MyApiNight.BusinessLayer\\MyApiNight.BusinessLayer.csproj|c:\\github\\myapinight\\myapinight\\myapinight.businesslayer\\abstract\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{403CBC8E-5A0D-40CC-87F9-0A51185F34C7}|MyApiNight.BusinessLayer\\MyApiNight.BusinessLayer.csproj|solutionrelative:myapinight.businesslayer\\abstract\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8F575728-4C59-4C5B-8BD4-157254AD2656}|MyApiNight.DataAccessLayer\\MyApiNight.DataAccessLayer.csproj|c:\\github\\myapinight\\myapinight\\myapinight.dataaccesslayer\\entityframework\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F575728-4C59-4C5B-8BD4-157254AD2656}|MyApiNight.DataAccessLayer\\MyApiNight.DataAccessLayer.csproj|solutionrelative:myapinight.dataaccesslayer\\entityframework\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,19 +35,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\GitHub\\MyApiNight\\MyApiNight\\MyApiNight.BusinessLayer\\Concrete\\ProductManager.cs",
+              "RelativeDocumentMoniker": "MyApiNight.BusinessLayer\\Concrete\\ProductManager.cs",
+              "ToolTip": "C:\\GitHub\\MyApiNight\\MyApiNight\\MyApiNight.BusinessLayer\\Concrete\\ProductManager.cs",
+              "RelativeToolTip": "MyApiNight.BusinessLayer\\Concrete\\ProductManager.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T20:35:41.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryManager.cs",
+              "DocumentMoniker": "C:\\GitHub\\MyApiNight\\MyApiNight\\MyApiNight.BusinessLayer\\Concrete\\CategoryManager.cs",
+              "RelativeDocumentMoniker": "MyApiNight.BusinessLayer\\Concrete\\CategoryManager.cs",
+              "ToolTip": "C:\\GitHub\\MyApiNight\\MyApiNight\\MyApiNight.BusinessLayer\\Concrete\\CategoryManager.cs",
+              "RelativeToolTip": "MyApiNight.BusinessLayer\\Concrete\\CategoryManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:04:02.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGenericService.cs",
+              "DocumentMoniker": "C:\\GitHub\\MyApiNight\\MyApiNight\\MyApiNight.BusinessLayer\\Abstract\\IGenericService.cs",
+              "RelativeDocumentMoniker": "MyApiNight.BusinessLayer\\Abstract\\IGenericService.cs",
+              "ToolTip": "C:\\GitHub\\MyApiNight\\MyApiNight\\MyApiNight.BusinessLayer\\Abstract\\IGenericService.cs",
+              "RelativeToolTip": "MyApiNight.BusinessLayer\\Abstract\\IGenericService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:53:46.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "EfProductDal.cs",
               "DocumentMoniker": "C:\\GitHub\\MyApiNight\\MyApiNight\\MyApiNight.DataAccessLayer\\EntityFramework\\EfProductDal.cs",
               "RelativeDocumentMoniker": "MyApiNight.DataAccessLayer\\EntityFramework\\EfProductDal.cs",
               "ToolTip": "C:\\GitHub\\MyApiNight\\MyApiNight\\MyApiNight.DataAccessLayer\\EntityFramework\\EfProductDal.cs",
               "RelativeToolTip": "MyApiNight.DataAccessLayer\\EntityFramework\\EfProductDal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T16:45:51.023Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "EfCategoryDal.cs",
               "DocumentMoniker": "C:\\GitHub\\MyApiNight\\MyApiNight\\MyApiNight.DataAccessLayer\\EntityFramework\\EfCategoryDal.cs",
               "RelativeDocumentMoniker": "MyApiNight.DataAccessLayer\\EntityFramework\\EfCategoryDal.cs",
