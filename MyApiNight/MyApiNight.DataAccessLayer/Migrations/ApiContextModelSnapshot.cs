@@ -29,8 +29,9 @@ namespace MyApiNight.DataAccessLayer.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("CategoryID"), 1L, 1);
 
-                    b.Property<int>("CategoryName")
-                        .HasColumnType("int");
+                    b.Property<string>("CategoryName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("CategoryID");
 
@@ -45,8 +46,9 @@ namespace MyApiNight.DataAccessLayer.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ProductID"), 1L, 1);
 
-                    b.Property<int>("ProductName")
-                        .HasColumnType("int");
+                    b.Property<string>("ProductName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("ProductPrice")
                         .HasColumnType("int");

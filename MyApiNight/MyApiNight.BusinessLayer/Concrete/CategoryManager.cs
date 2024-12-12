@@ -12,6 +12,11 @@ namespace MyApiNight.BusinessLayer.Concrete
     public class CategoryManager : ICategoryService//business katmanindaki metotlari tutuyor
     {
         private readonly ICategoryDal _categoryDal; //data access layerda tanimladigimiz metotlarin icerigini tutuyor
+
+        public CategoryManager(ICategoryDal categoryDal)
+        {
+            _categoryDal = categoryDal;
+        }
         public void TDelete(int id)
         {
            _categoryDal.Delete(id);

@@ -1,0 +1,10 @@
+﻿@model List<MyApiNight.WebUI.DTOs.ResultCategoryDTO>
+
+@{
+    Layout = null;
+}
+
+@foreach (var item in Model)
+{
+    <p>@item.CategoryName</p>
+}

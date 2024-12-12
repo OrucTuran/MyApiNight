@@ -9,7 +9,7 @@ namespace MyApiNight.EntityLayer.Concrete
     public class Product
     {
         public int ProductID { get; set; }
-        public int ProductName { get; set; }
+        public string ProductName { get; set; }
         public int ProductStock { get; set; }
         public int ProductPrice { get; set; }
     }
