@@ -1,0 +1,16 @@
+﻿@model MyApiNight.WebUI.DTOs.UpdateCategoryDTO
+@{
+    Layout = null;
+}
+<link href="c:\github\myapinight\myapinight\myapinight.webui\wwwroot\lib\bootstrap\dist\css\bootstrap.css" rel="stylesheet" />
+
+<form method="post">
+    <div class="container">
+        <br /><br />
+        <input type="hidden" asp-for="CategoryID" />
+        <label>Kategori Adı</label>
+        <input type="text" asp-for="CategoryName" class="form-control" />
+        <br />
+        <button class="btn btn-outline-primary">Kategoriyi Ekle</button>
+    </div>
+</form>

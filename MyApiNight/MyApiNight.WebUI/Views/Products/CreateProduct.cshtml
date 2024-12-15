@@ -1,0 +1,21 @@
+﻿@model MyApiNight.WebUI.DTOs.Product.CreateProductDTO
+@{
+    Layout = null;
+}
+<link href="c:\github\myapinight\myapinight\myapinight.webui\wwwroot\lib\bootstrap\dist\css\bootstrap.css" rel="stylesheet" />
+
+<form method="post">
+    <div class="container">
+        <br /><br />
+        <label>Ürün Adasdasdsaı</label>
+        <input type="text" asp-for="ProductName" class="form-control" />
+        <br />
+        <label>Stok Miktarı</label>
+        <input type="text" asp-for="ProductStock" class="form-control" />
+        <br />
+        <label>Ürün Fiyato</label>
+        <input type="text" asp-for="ProductPrice" class="form-control" />
+        <br />
+        <button class="btn btn-outline-primary">Ürünü Ekle</button>
+    </div>
+</form>
