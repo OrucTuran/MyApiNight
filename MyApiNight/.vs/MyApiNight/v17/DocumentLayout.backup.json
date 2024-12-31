@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "C:\\GitHub\\MyApiNight\\MyApiNight\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6CDE7692-B705-402D-A2CF-9D5639B96BE0}|MyApiNight.WebUI\\MyApiNight.WebUI.csproj|c:\\github\\myapinight\\myapinight\\myapinight.webui\\views\\products\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6CDE7692-B705-402D-A2CF-9D5639B96BE0}|MyApiNight.WebUI\\MyApiNight.WebUI.csproj|solutionrelative:myapinight.webui\\views\\products\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CDE7692-B705-402D-A2CF-9D5639B96BE0}|MyApiNight.WebUI\\MyApiNight.WebUI.csproj|c:\\github\\myapinight\\myapinight\\myapinight.webui\\views\\categories\\createcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6CDE7692-B705-402D-A2CF-9D5639B96BE0}|MyApiNight.WebUI\\MyApiNight.WebUI.csproj|solutionrelative:myapinight.webui\\views\\categories\\createcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CDE7692-B705-402D-A2CF-9D5639B96BE0}|MyApiNight.WebUI\\MyApiNight.WebUI.csproj|c:\\github\\myapinight\\myapinight\\myapinight.webui\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CDE7692-B705-402D-A2CF-9D5639B96BE0}|MyApiNight.WebUI\\MyApiNight.WebUI.csproj|solutionrelative:myapinight.webui\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6CDE7692-B705-402D-A2CF-9D5639B96BE0}|MyApiNight.WebUI\\MyApiNight.WebUI.csproj|c:\\github\\myapinight\\myapinight\\myapinight.webui\\views\\products\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6CDE7692-B705-402D-A2CF-9D5639B96BE0}|MyApiNight.WebUI\\MyApiNight.WebUI.csproj|solutionrelative:myapinight.webui\\views\\products\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -23,12 +11,8 @@
       "RelativeMoniker": "D:0:0:{6CDE7692-B705-402D-A2CF-9D5639B96BE0}|MyApiNight.WebUI\\MyApiNight.WebUI.csproj|solutionrelative:myapinight.webui\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CDE7692-B705-402D-A2CF-9D5639B96BE0}|MyApiNight.WebUI\\MyApiNight.WebUI.csproj|c:\\github\\myapinight\\myapinight\\myapinight.webui\\views\\categories\\categorylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6CDE7692-B705-402D-A2CF-9D5639B96BE0}|MyApiNight.WebUI\\MyApiNight.WebUI.csproj|solutionrelative:myapinight.webui\\views\\categories\\categorylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CDE7692-B705-402D-A2CF-9D5639B96BE0}|MyApiNight.WebUI\\MyApiNight.WebUI.csproj|c:\\github\\myapinight\\myapinight\\myapinight.webui\\dtos\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CDE7692-B705-402D-A2CF-9D5639B96BE0}|MyApiNight.WebUI\\MyApiNight.WebUI.csproj|solutionrelative:myapinight.webui\\dtos\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6CDE7692-B705-402D-A2CF-9D5639B96BE0}|MyApiNight.WebUI\\MyApiNight.WebUI.csproj|c:\\github\\myapinight\\myapinight\\myapinight.webui\\views\\products\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CDE7692-B705-402D-A2CF-9D5639B96BE0}|MyApiNight.WebUI\\MyApiNight.WebUI.csproj|solutionrelative:myapinight.webui\\views\\products\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CreateCategory.cshtml",
-              "DocumentMoniker": "C:\\GitHub\\MyApiNight\\MyApiNight\\MyApiNight.WebUI\\Views\\Categories\\CreateCategory.cshtml",
-              "RelativeDocumentMoniker": "MyApiNight.WebUI\\Views\\Categories\\CreateCategory.cshtml",
-              "ToolTip": "C:\\GitHub\\MyApiNight\\MyApiNight\\MyApiNight.WebUI\\Views\\Categories\\CreateCategory.cshtml",
-              "RelativeToolTip": "MyApiNight.WebUI\\Views\\Categories\\CreateCategory.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-13T18:49:12.046Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CreateProduct.cshtml",
-              "DocumentMoniker": "C:\\GitHub\\MyApiNight\\MyApiNight\\MyApiNight.WebUI\\Views\\Products\\CreateProduct.cshtml",
-              "RelativeDocumentMoniker": "MyApiNight.WebUI\\Views\\Products\\CreateProduct.cshtml",
-              "ToolTip": "C:\\GitHub\\MyApiNight\\MyApiNight\\MyApiNight.WebUI\\Views\\Products\\CreateProduct.cshtml",
-              "RelativeToolTip": "MyApiNight.WebUI\\Views\\Products\\CreateProduct.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-13T18:48:57.379Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "ProductList.cshtml",
               "DocumentMoniker": "C:\\GitHub\\MyApiNight\\MyApiNight\\MyApiNight.WebUI\\Views\\Products\\ProductList.cshtml",
               "RelativeDocumentMoniker": "MyApiNight.WebUI\\Views\\Products\\ProductList.cshtml",
               "ToolTip": "C:\\GitHub\\MyApiNight\\MyApiNight\\MyApiNight.WebUI\\Views\\Products\\ProductList.cshtml",
               "RelativeToolTip": "MyApiNight.WebUI\\Views\\Products\\ProductList.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-13T18:35:09.885Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\GitHub\\MyApiNight\\MyApiNight\\MyApiNight.WebUI\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "MyApiNight.WebUI\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\GitHub\\MyApiNight\\MyApiNight\\MyApiNight.WebUI\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "MyApiNight.WebUI\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAwwCoAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T18:20:44.16Z",
+              "WhenOpened": "2024-12-29T15:43:58.396Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\GitHub\\MyApiNight\\MyApiNight\\MyApiNight.WebUI\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "MyApiNight.WebUI\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\GitHub\\MyApiNight\\MyApiNight\\MyApiNight.WebUI\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "MyApiNight.WebUI\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwCcAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T17:25:58.475Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CategoryList.cshtml",
-              "DocumentMoniker": "C:\\GitHub\\MyApiNight\\MyApiNight\\MyApiNight.WebUI\\Views\\Categories\\CategoryList.cshtml",
-              "RelativeDocumentMoniker": "MyApiNight.WebUI\\Views\\Categories\\CategoryList.cshtml",
-              "ToolTip": "C:\\GitHub\\MyApiNight\\MyApiNight\\MyApiNight.WebUI\\Views\\Categories\\CategoryList.cshtml",
-              "RelativeToolTip": "MyApiNight.WebUI\\Views\\Categories\\CategoryList.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "UpdateProduct.cshtml",
+              "DocumentMoniker": "C:\\GitHub\\MyApiNight\\MyApiNight\\MyApiNight.WebUI\\Views\\Products\\UpdateProduct.cshtml",
+              "RelativeDocumentMoniker": "MyApiNight.WebUI\\Views\\Products\\UpdateProduct.cshtml",
+              "ToolTip": "C:\\GitHub\\MyApiNight\\MyApiNight\\MyApiNight.WebUI\\Views\\Products\\UpdateProduct.cshtml",
+              "RelativeToolTip": "MyApiNight.WebUI\\Views\\Products\\UpdateProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-12T18:57:29.878Z",
+              "WhenOpened": "2024-12-29T15:40:11.662Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CreateCategoryDTO.cs",
-              "DocumentMoniker": "C:\\GitHub\\MyApiNight\\MyApiNight\\MyApiNight.WebUI\\DTOs\\CreateCategoryDTO.cs",
-              "RelativeDocumentMoniker": "MyApiNight.WebUI\\DTOs\\CreateCategoryDTO.cs",
-              "ToolTip": "C:\\GitHub\\MyApiNight\\MyApiNight\\MyApiNight.WebUI\\DTOs\\CreateCategoryDTO.cs",
-              "RelativeToolTip": "MyApiNight.WebUI\\DTOs\\CreateCategoryDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\GitHub\\MyApiNight\\MyApiNight\\MyApiNight.WebUI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "MyApiNight.WebUI\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\GitHub\\MyApiNight\\MyApiNight\\MyApiNight.WebUI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "MyApiNight.WebUI\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T17:11:07.318Z",
+              "WhenOpened": "2024-12-13T18:20:44.16Z",
               "EditorCaption": ""
             }
           ]

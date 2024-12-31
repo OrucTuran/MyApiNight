@@ -4,7 +4,7 @@
     Layout = null;
 }
 
-<link href="c:\github\myapinight\myapinight\myapinight.webui\wwwroot\lib\bootstrap\dist\css\bootstrap.css" rel="stylesheet" />
+<link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
 
 <form method="post">
     <div class="container">
@@ -12,7 +12,9 @@
         <table class="table table-bordered">
             <tr>
                 <th>#</th>
-                <th>Kategori Adı</th>
+                <th>Ürün Adı</th>
+                <th>Ürün Stok</th>
+                <th>Ürün Fiyat</th>
                 <th>Sil</th>
                 <th>Güncelle</th>
             </tr>
@@ -23,8 +25,8 @@
                     <td>@item.ProductName</td>
                     <td>@item.ProductStock</td>
                     <td>@item.ProductPrice</td>
-                    <td><a href="/Products/ProductCategory/@item.ProductID" class="btn btn-outline-danger">Sil</a></td>
-                    <td><a href="/Products/ProductCategory/@item.ProductID" class="btn btn-outline-success">Güncelle</a></td>
+                    <td><a href="/Products/DeleteProduct/@item.ProductID" class="btn btn-outline-danger">Sil</a></td>
+                    <td><a href="/Products/UpdateProduct/@item.ProductID" class="btn btn-outline-success">Güncelle</a></td>
                 </tr>
             }
         </table>

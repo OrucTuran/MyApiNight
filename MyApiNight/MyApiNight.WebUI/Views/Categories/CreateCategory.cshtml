@@ -2,12 +2,14 @@
 @{
     Layout = null;
 }
-<link href="c:\github\myapinight\myapinight\myapinight.webui\wwwroot\lib\bootstrap\dist\css\bootstrap.css" rel="stylesheet" />
+
+<link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
 
 <form method="post">
     <div class="container">
         <br /><br />
         <label>Kategori Adı</label>
+        <br />
         <input type="text" asp-for="CategoryName" class="form-control" />
         <br />
         <button class="btn btn-outline-primary">Kategoriyi Ekle</button>
