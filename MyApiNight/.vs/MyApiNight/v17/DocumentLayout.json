@@ -47,8 +47,7 @@
               "RelativeToolTip": "MyApiNight.WebUI\\Views\\Products\\UpdateProduct.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-29T15:40:11.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-29T15:40:11.662Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "MyApiNight.WebUI\\Controllers\\ProductsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T18:20:44.16Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T18:20:44.16Z"
             }
           ]
         }
